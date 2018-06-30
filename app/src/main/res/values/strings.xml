@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ny Times</string>
+    <string name="title_newsitem_detail">NewsItem Detail</string>
+    <string name="error">Error loading news feed</string>
+    <string name="no_internet_txt">Please connect to Internet.</string>
+</resources>
